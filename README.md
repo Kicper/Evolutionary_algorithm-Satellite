@@ -1,2 +1,2 @@
 # Evolutionary_algorithm-Satellite
-Evolutionary algorithm which simulate space flight from entered model. 
+Evolutionary algorithm which simulate satellite space flight from one planet to another in entered model.
